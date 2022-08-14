@@ -26,7 +26,7 @@ namespace Begin
             Console.WriteLine("All of a sudden, " +characterName+ " died and his friend stops going to his mother");
             Console.WriteLine("Untill now, that friend of his has yet to visit his mother");
             Console.WriteLine("And he was just at " + characterAge + " when he gave up the ghost");
-            Console.WriteLine("Although, he did not pray to die young, but this eventually happened to him at 20");
+            Console.WriteLine("Although, he did not pray to die at " + characterAge + "but this eventually happened to him at 20");
 
             Console.ReadLine();
         }
